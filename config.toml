@@ -1,4 +1,73 @@
 baseURL = "http://techblog.nistu.de/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Nikolay Sturm's Tech Blog"
 theme = "hugo-future-imperfect"
+preserveTaxonomyNames = true
+paginate = 3
+disqusShortname = "nistude"
+googleAnalytics = "UA-25193680-1"
+
+[params]
+  author = "Nikolay Sturm"
+  # Sets the meta tag description, usually reserved for the main page
+  description = "description"
+  # This will appear on the top left of the navigation bar
+  navbarTitle = "navbar title"
+  # Social media buttons that appear on the sidebar
+  socialAppearAtTop = true
+  socialAppearAtBottom = false
+  includeReadingTime = true
+  # Please see the favicon partial template for more information
+  loadFavicon = false
+  faviconVersion = ""
+
+  # Load custom CSS or JavaScript files. This replaces the deprecated params
+  # minifiedFilesCSS and minifiedFilesJS. The variable is an array so that you
+  # can load multiple files if necessary. You can also load the standard theme
+  # files by adding the value, "default".
+  # customCSS            = ["default", "/path/to/file"]
+  # customJS             = ["default", "/path/to/file"]
+
+  # Loading min files for exampleSite
+  # customCSS            = ["/css/main.min.css"]
+  # customJS             = ["/js/main.min.js"]
+
+[params.intro]
+  header = "Nikolay Sturm"
+  paragraph = "Musings about development and operations"
+  about = "In this blog I write about topics that come up at work. From web operations to leadership and decision making in complex environments."
+
+[params.intro.pic]
+  src = "/images/logo.jpg"
+  circle = true
+  imperfect = false # future imperfect's hexagonal shape
+  width = "100px"
+  alt = "blog logo"
+
+# Set up your menu items in the navigation bar
+# You can use identifier to prepend a font awesome icon to your text
+[[menu.main]]
+  name = "Blog"
+  url = "/blog"
+  identifier = "fa fa-newspaper-o"
+  weight = 1
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 3
+
+[social]
+  github          = "nistude"
+  xing            = "Nikolay_Sturm"
+  linkedin        = "nikolay-sturm-13459b3"
+# slideshare      = ""
+# stackoverflow   = ""
+  googleplus      = "102898417920955851819"
+  twitter         = "nistude"
+  email           = ""
