@@ -1,4 +1,4 @@
-baseURL = "http://techblog.nistu.de/"
+baseURL = "http://blog.nistu.de/"
 languageCode = "en-us"
 title = "Nikolay Sturm's Tech Blog"
 theme = "hugo-future-imperfect"
