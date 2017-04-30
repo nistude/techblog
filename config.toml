@@ -10,9 +10,9 @@ googleAnalytics = "UA-25193680-1"
 [params]
   author = "Nikolay Sturm"
   # Sets the meta tag description, usually reserved for the main page
-  description = "description"
+  description = "Thoughts on technology and decision making"
   # This will appear on the top left of the navigation bar
-  navbarTitle = "navbar title"
+  navbarTitle = "Nikolay Sturm"
   # Social media buttons that appear on the sidebar
   socialAppearAtTop = true
   socialAppearAtBottom = false
@@ -34,7 +34,7 @@ googleAnalytics = "UA-25193680-1"
 
 [params.intro]
   header = "Nikolay Sturm"
-  paragraph = "Musings about development and operations"
+  paragraph = "Thoughts on technology and decision making"
   about = "In this blog I write about topics that come up at work. From web operations to leadership and decision making in complex environments."
 
 [params.intro.pic]
