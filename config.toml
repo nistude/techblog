@@ -35,7 +35,6 @@ googleAnalytics = "UA-25193680-1"
 [params.intro]
   header = "Nikolay Sturm"
   paragraph = "Thoughts on technology and decision making"
-  about = "In this blog I write about topics that come up at work. From web operations to leadership and decision making in complex environments."
 
 [params.intro.pic]
   src = "/images/logo.jpg"
@@ -47,20 +46,14 @@ googleAnalytics = "UA-25193680-1"
 # Set up your menu items in the navigation bar
 # You can use identifier to prepend a font awesome icon to your text
 [[menu.main]]
-  name = "Blog"
-  url = "/blog"
-  identifier = "fa fa-newspaper-o"
+  name = "About"
+  url = "/about"
   weight = 1
 
 [[menu.main]]
-  name = "Categories"
-  url = "/categories"
-  weight = 2
-
-[[menu.main]]
-  name = "About"
-  url = "/about"
-  weight = 3
+  name = "Impressum"
+  url = "/impressum"
+  weight = 1
 
 [social]
   github          = "nistude"
