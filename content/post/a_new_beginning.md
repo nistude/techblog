@@ -13,5 +13,5 @@ type = "post"
 
 After more than 3 years, I am reviving my old blog. As my older posts are
 hardly relevant these days and I don't have many readers anyways, I just start
-from scratch. If anyone is interested in any of my older posts, drop a line
+from scratch. If anyone is interested in any of my older posts, drop me a line
 and I can republish it.
