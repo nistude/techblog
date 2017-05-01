@@ -7,6 +7,9 @@ paginate = 3
 disqusShortname = "nistude"
 googleAnalytics = "UA-25193680-1"
 
+[permalinks]
+  post = "/:year/:month/:title/"
+
 [params]
   author = "Nikolay Sturm"
   # Sets the meta tag description, usually reserved for the main page
