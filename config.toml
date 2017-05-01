@@ -51,12 +51,14 @@ googleAnalytics = "UA-25193680-1"
 [[menu.main]]
   name = "About"
   url = "/about"
-  weight = 1
 
 [[menu.main]]
   name = "Impressum"
   url = "/impressum"
-  weight = 1
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact"
 
 [social]
   github          = "nistude"

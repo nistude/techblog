@@ -13,8 +13,6 @@ title = "About Me"
 
 Hello,
 
-my name is Nikolay Sturm and I am the person writing here.
-
 I am about two decades into my career in IT, working in various roles in and
 around operations. I began my career as a classical systems administrator,
 drank the devops kool-aid in 2009, dipped my nose into web programming and

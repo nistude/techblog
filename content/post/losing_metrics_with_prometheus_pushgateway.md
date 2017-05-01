@@ -1,7 +1,7 @@
 +++
 categories = ["lessons learned"]
 date = "2017-04-30T16:00:41+02:00"
-description = ""
+description = "how to properly push metrics to prometheus pushgateway"
 featured = ""
 featuredalt = ""
 featuredpath = ""

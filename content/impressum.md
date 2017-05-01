@@ -17,8 +17,7 @@ Nikolay Sturm <br>
 Leitenhöhe 7<br>
 82229 Seefeld <br>
 
-Kontakt:<br>
-E-Mail: blog[at]erisiandiscord.de
+E-Mail: **webmaster [at] nistu [dot] de**
 
 ## Haftungsausschluss:
 
