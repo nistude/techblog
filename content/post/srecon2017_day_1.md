@@ -128,7 +128,7 @@ bot developers.
 
 My final talk for the day was by
 [Murali Suriar](https://www.usenix.org/conference/srecon17europe/program/presentation/suriar-early),
-another SRE manager at Google.
+a Google SRE.
 
 > How do you build a new SRE team around a completely novel product? This talk
 > will deal with some of the challenges involved in launching Espresso,
