@@ -11,8 +11,9 @@ type = "post"
 
 +++
 
-With a short delay, the recap of the final day 3 of SRECon Europe 2017. In
-the morning I jumped around quite a bit, so I didn't get much of a coherent
+With a short delay, the recap of the final day 3 of SRECon Europe 2017.
+
+In the morning I jumped around quite a bit, so I didn't get much of a coherent
 experience.
 
 ## Statistics for Engineers
@@ -74,7 +75,7 @@ gone to his workshop instead.
 
 ## The EU's New Data Protection Law - a Survival Guide
 
-Finally I joined the other long morning session by
+Finally, I joined the other long morning session by
 [Simon McGarr and John Looney](https://www.usenix.org/conference/srecon17europe/program/presentation/mcgarr)
 only to find out that they hadn't moved past slide 1 in over 60 minutes!
 
@@ -97,7 +98,8 @@ There is a certain kind of lawyer that is funny as hell to listen to, Simon
 McGarr is one of them. The reason they hadn't moved past slide 1 was, that
 this session was kind of a guided Q&A around Europe's new *General Data
 Protection Directive*. Insightful and entertaining, I happily joined for a
-2nd dose after the break.
+2nd dose after the break. To sum up this presentation/Q&A, if you are dealing
+with personally identifiable information, be afraid. Be very afraid!
 
 ## Panel: AMA for New SREs
 
@@ -172,6 +174,7 @@ Comedy, sometimes funny, often times not so much. In the end the talk concluded
 with 3 points that could have been presented in a lightning talk as well.
 
 When engaging SRE with a new team:
+
 1. live their problems
 1. show how you can help, don't tell what the team needs to change
 1. be happy when they don't need you anymore
@@ -199,7 +202,7 @@ more funny.
 > talk also explains why freedom and responsibility are key, trust is
 > required, and when chaos is your friend.
 
-As there was no overarching topic, content wise, there's no point listing all
+As there was no overarching topic content wise, there's no point listing all
 their individual points. Suffice to say, they had quite a wealth of experience
 and for someone new to SRE, there where a few hidden gems.
 
